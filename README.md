@@ -22,37 +22,9 @@ Antes de comenzar, asegúrate de tener instalados los siguientes componentes:
 Node.js y npm
 MetaMask (Extensión de navegador)
 Ganache (para la blockchain local)
-⚙️ Instalación
-Clonar el repositorio
 
-bash
-Copiar código
-git clone https://github.com/tu-usuario/nombre-repositorio.git
-cd nombre-repositorio
-Instalar dependencias
 
-bash
-Copiar código
-npm install
-Configurar Ganache
 
-Ejecuta Ganache y configura una red de desarrollo local.
-Copia la clave privada de una cuenta y configúrala en MetaMask.
-Compilar Contratos
-
-bash
-Copiar código
-npx truffle compile
-Desplegar Contratos
-
-bash
-Copiar código
-npx truffle migrate
-Ejecutar la Aplicación
-
-bash
-Copiar código
-npm start
 🚀 Uso
 Crear una Campaña
 
@@ -65,12 +37,5 @@ Explora las campañas disponibles.
 Selecciona una campaña y haz una contribución utilizando MetaMask.
 Gestionar Campaña
 
-Accede al panel de gestión de tu campaña para ver los fondos recaudados y administrar las contribuciones.
-🤝 Contribuciones
-¡Las contribuciones son bienvenidas! Si deseas contribuir, por favor sigue estos pasos:
 
-Haz un fork del proyecto.
-Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
-Realiza tus cambios y haz commit (git commit -m 'Agregar nueva funcionalidad').
-Sube tus cambios (git push origin feature/nueva-funcionalidad).
-Abre un Pull Request.
+
