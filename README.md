@@ -1,5 +1,4 @@
 
-¡Claro! Aquí tienes el README con iconos para hacerlo más llamativo:
 
 🌐 Plataforma de Recaudación de Fondos con Web3
 Bienvenido a la Plataforma de Recaudación de Fondos. Este proyecto permite a los usuarios crear campañas y recaudar fondos para las mismas utilizando tecnologías de vanguardia como Web3, Solidity, MetaMask, Blockchain y Ganache.
