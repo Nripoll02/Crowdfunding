@@ -31,11 +31,10 @@ Crear una Campaña
 Conéctate con MetaMask.
 Navega a la sección de creación de campaña.
 Completa el formulario con los detalles de la campaña y envíalo.
-Contribuir a una Campaña
 
-Explora las campañas disponibles.
-Selecciona una campaña y haz una contribución utilizando MetaMask.
-Gestionar Campaña
+Contribuir a una Campaña
+Explora las campañas disponibles. Selecciona una campaña y haz una contribución utilizando MetaMask.
+
 
 
 
